@@ -1,8 +1,8 @@
 # slack-custom-emoji
 A set of custom emoji for Slack
 
-- `:cloud4:` ![Cloud Four](https://raw.githubusercontent.com/derekshirk/slack-custom-emoji/master/emoji/cloud4.png")  
-- `:facepalm:` ![face palm](https://raw.githubusercontent.com/derekshirk/slack-custom-emoji/master/emoji/facepalm.gif")  
-- `:twitter:` ![twitter](https://raw.githubusercontent.com/derekshirk/slack-custom-emoji/master/emoji/twitter.png")  
-- `:questionblock:` ![question block](https://raw.githubusercontent.com/derekshirk/slack-custom-emoji/master/emoji/questionblock.png")  
-- `:ie:` ![ie](https://raw.githubusercontent.com/derekshirk/slack-custom-emoji/master/emoji/ie.png")  
+- `:cloud4:` ![Cloud Four](https://github.com/derekshirk/slack-custom-emoji/blob/master/emoji/cloud4-icon.png?raw=true")  
+- `:facepalm:` ![face palm](https://github.com/derekshirk/slack-custom-emoji/blob/master/emoji/faceplam.gif?raw=true")  
+- `:twitter:` ![twitter](https://github.com/derekshirk/slack-custom-emoji/blob/master/emoji/twitter.png?raw=true")  
+- `:questionblock:` ![question block](https://github.com/derekshirk/slack-custom-emoji/blob/master/emoji/questionblock.png?raw=true")  
+- `:ie:` ![ie](https://github.com/derekshirk/slack-custom-emoji/blob/master/emoji/ie.png?raw=true")  
